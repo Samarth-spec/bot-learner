@@ -1,0 +1,13 @@
+{
+    "name": "SUB BOT",
+    "version": "1.0.0",
+    "description": "THIS BOT IS FOR YOUTUBERS",
+    "main": "SUB BOT.js",
+    "author": "FW RAAVAN",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
